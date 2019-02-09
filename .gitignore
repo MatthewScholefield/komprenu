@@ -1,0 +1,8 @@
+data/
+*.egg-info/
+*.pyc
+.pytest_cache/
+/model.json
+.idea/
+.venv/
+
